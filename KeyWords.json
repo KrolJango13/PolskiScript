@@ -27,5 +27,12 @@
 	"kontynuuj": "continue",
 	"nowy": "new",
 	"poszerza": "extends",
-	"wracaj": "return"
+	"wracaj": "return",
+	"prawda": "true",
+	"fałsz": "false",
+	"próżnia": "void",
+	"zero": "null",
+	"nieokreślony": "undefined",
+	"rzucaj": "throw",
+	"statyczny": "static"
 }
